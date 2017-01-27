@@ -1,0 +1,11 @@
+Name		Score
+testd		217
+Max		90
+adc		89
+Jonas		88
+testE		78
+test		70
+testB		10
+tfes		5
+tfsad		2
+test		1
